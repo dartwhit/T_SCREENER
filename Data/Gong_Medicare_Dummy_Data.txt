@@ -1,0 +1,6 @@
+SSc Rate	Zip Code	Superfund Site
+0.14	03053	Auburn Road Landfill
+0.2	02343	Baird & McGuire
+0.17	06063	Barkhamsted- New Hartford Landfill
+0.09	06403	Beacon Heights Landfill
+0.11	03865	Beede Waste Oil

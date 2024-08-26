@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+leaflet_demo
+zcta.RDS
+SubstanceRedirectURLs.csv
+leaflet_practice.R
+.RDataTmp
+demo.R
+**/*.RDS
+SSC_demo/SCREENER/**/*.RDS

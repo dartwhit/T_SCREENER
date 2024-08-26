@@ -1,0 +1,13 @@
+name: screener
+title: SCREENER
+username: f005c3n
+account: f005c3n
+server: rstudio-connect.dartmouth.edu
+hostUrl: https://rstudio-connect.dartmouth.edu/__api__
+appId: 72
+bundleId: 528
+url: https://rstudio-connect.dartmouth.edu/content/504e9c2b-9ee3-4060-904d-b0ebf09a7fe7/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_processing.R|zcta.RDS
